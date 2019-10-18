@@ -26,7 +26,7 @@
         "name": "Ravioli Funghi",
         "category": "pasta",
         "ethnicity": "italian",
-        "barcode": "001665127585"
+        "barcode": "8001665127394"
     },
     {
         "id": 5,
@@ -38,4 +38,3 @@
     ]
   }
 
-  /*Create a new barcode key for each of the items in your API, and provide the correct barcode value that you found in your search.*/
