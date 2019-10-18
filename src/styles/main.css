@@ -1,0 +1,19 @@
+/* 
+Code from Displaying Foods Exercise
+*/
+
+.foodList{
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    flex-wrap: wrap;
+    
+  }
+  
+  .foodItem{
+      border-style: solid;
+      border-color: red;
+      padding: 2%;
+      width: 20%;
+      
+  }
